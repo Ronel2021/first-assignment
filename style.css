@@ -36,10 +36,34 @@ h1 {
 
 .second-div {
     width: 40%;
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 5%;
+    padding-right: 5;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    background-color: aqua;
+
 }
 
+
 .second-div img {
-    width: 60%;
+    width: 40%;
+}
+
+#first-image {
+    background-color: powderblue;
+}
+
+#second-image {
+    background-color: oldlace;
+}
+
+#third-image {
+    background-color: peachpuff;
+}
+
+.align {
+    text-align: center;
 }
