@@ -15,6 +15,7 @@ h1 {
 .first-div {
     width: 50%;
     padding: 8%;
+
 }
 
 .first-div img {
@@ -111,4 +112,11 @@ footer {
 
 .year {
     color: crimson;
+}
+
+#line {
+    border-left: 5px solid red;
+    padding: 10px;
+    height: 50px;
+
 }
